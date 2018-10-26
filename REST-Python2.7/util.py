@@ -5,7 +5,7 @@ import requests
 import hashlib
 
 TIMEOUT = 20
-HTTP_URL = "http://openapi.dgcoinex.com"
+HTTP_URL = "https://openapi.dcoin.com/open/api"
 
 APP_KEY = "1"
 SECRET_KEY = "1"
