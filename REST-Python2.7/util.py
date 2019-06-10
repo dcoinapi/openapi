@@ -5,10 +5,10 @@ import requests
 import hashlib
 
 TIMEOUT = 20
-HTTP_URL = "https://openapi.dcoin.com/open/api"
+HTTP_URL = "https://openapi.dcoin.com"
 
-APP_KEY = "1"
-SECRET_KEY = "1"
+APP_KEY = ""
+SECRET_KEY = ""
 
 
 def http_get_request(url, params):
