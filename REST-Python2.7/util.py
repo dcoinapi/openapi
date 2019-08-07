@@ -5,6 +5,7 @@ import requests
 import hashlib
 
 TIMEOUT = 20
+# HTTP_URL = "https://openapi.dcoinpro.com" # for china user
 HTTP_URL = "https://openapi.dcoin.com"
 
 APP_KEY = ""
